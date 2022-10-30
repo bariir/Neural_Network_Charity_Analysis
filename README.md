@@ -54,7 +54,7 @@ that are candidate for binning. The ideal technique to use for this use case is 
 ![Checkpoint and saving the model](/Resources/nn_checkpoints_compile_create_callback_save_models_weights.png)<br>
 
 - Train model with callbacks<br>
-![Train model with callbacks](/Resources/crypto_create_tradable_table.png)<br>
+![Train model with callbacks](/Resources/nn_train_model_with_callbacks.png)<br>
 
 - Evaluate model with test data<br>
 ![Evaluate model with test data](/Resources/nn_evaluate_model_with_test_data.png)<br>
