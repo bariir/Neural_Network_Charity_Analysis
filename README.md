@@ -84,3 +84,42 @@ After the model optimization. I have not seen any improvement in accuracy score.
 2.	Replaced the number of count types that were less than 10000
 3.	Added third addition hidden layers
 4.	Changed activation function for the hidden layer from relu to tanh
+
+
+## Links to images
+
+Preprocessing data for neural network model: [nn_data_preprocessing.png](https://github.com/bariir/Neural_Network_Charity_Analysis/tree/main/Resources/nn_data_preprocessing.png?raw=true)<br>
+
+Feature variables: [nn_feature_variables.png](https://github.com/bariir/Neural_Network_Charity_Analysis/tree/main/Resources/nn_feature_variables.png?raw=true)<br>
+
+Target variable: [nn_target_variable.png](https://github.com/bariir/Neural_Network_Charity_Analysis/tree/main/Resources/nn_target_variable.png?raw=true)<br>
+
+Identify columns to remove: [nn_drop_non_needed_features.png](https://github.com/bariir/Neural_Network_Charity_Analysis/tree/main/Resources/nn_drop_non_needed_features.png?raw=true)<br>
+
+Determine unique column values: [nn_determine_unique_column_values.png](https://github.com/bariir/Neural_Network_Charity_Analysis/tree/main/Resources/nn_determine_unique_column_values.png?raw=true)<br>
+
+Vizualize values to replace: [nn_viz_determine_values_to_replace.png](https://github.com/bariir/Neural_Network_Charity_Analysis/tree/main/Resources/nn_viz_determine_values_to_replace.png?raw=true)<br>
+
+Generate catigorical variable lists: [nn_generate_categorical_variable_lists.png](https://github.com/bariir/Neural_Network_Charity_Analysis/tree/main/Resources/nn_generate_categorical_variable_lists.png?raw=true)<br>
+
+Create oneHotEncoder instance: [nn_create_OneHotEncoder_instance.png](https://github.com/bariir/Neural_Network_Charity_Analysis/tree/main/Resources/nn_create_OneHotEncoder_instance.png?raw=true)<br>
+
+Split preprocessed data and standardize: [nn_split_preprocessed_data_and_standardize.png](https://github.com/bariir/Neural_Network_Charity_Analysis/tree/main/Resources/nn_split_preprocessed_data_and_standardize.png?raw=true)<br>
+
+Compile, train, and evaluate model: [nn_compile_train_evaluate_model.png](https://github.com/bariir/Neural_Network_Charity_Analysis/tree/main/Resources/nn_compile_train_evaluate_model.png?raw=true)<br>
+
+Checkpoint and saving the model: [nn_checkpoints_compile_create_callback_save_models_weights.png](https://github.com/bariir/Neural_Network_Charity_Analysis/tree/main/Resources/nn_checkpoints_compile_create_callback_save_models_weights.png?raw=true)<br>
+
+Train model with callbacks: [nn_train_model_with_callbacks.png](https://github.com/bariir/Neural_Network_Charity_Analysis/tree/main/Resources/nn_train_model_with_callbacks.png?raw=true)<br>
+
+Evaluate model with test data: [nn_evaluate_model_with_test_data.png](https://github.com/bariir/Neural_Network_Charity_Analysis/tree/main/Resources/nn_evaluate_model_with_test_data.png?raw=true)<br>
+
+Export model to HDF5 file: [nn_export_model_to_HDF5_file.png](https://github.com/bariir/Neural_Network_Charity_Analysis/tree/main/Resources/nn_export_model_to_HDF5_file.png?raw=true)<br>
+
+Optimize and drop more features: [nn_optimize_drop_more_features.png](https://github.com/bariir/Neural_Network_Charity_Analysis/tree/main/Resources/nn_optimize_drop_more_features.png?raw=true)<br>
+
+Optimize, compile, train and evaluate model: [nn_optimize_compile_train_evaluate_model.png](https://github.com/bariir/Neural_Network_Charity_Analysis/tree/main/Resources/nn_optimize_compile_train_evaluate_model.png?raw=true)<br>
+
+Optimize, train with callbacks and export model to HDF5 file: [nn_optimize_train_with_callbacks_evaluate_and_export_model_to_HDF5_file.png](https://github.com/bariir/Neural_Network_Charity_Analysis/tree/main/Resources/nn_optimize_train_with_callbacks_evaluate_and_export_model_to_HDF5_file.png?raw=true)<br>
+
+
