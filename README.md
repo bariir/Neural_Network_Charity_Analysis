@@ -70,3 +70,17 @@ that are candidate for binning. The ideal technique to use for this use case is 
 
 - Optimize, train with callbacks and export model to HDF5 file<br>
 ![Optimize, train with callbacks and export model to HDF5 file](/Resources/nn_optimize_train_with_callbacks_evaluate_and_export_model_to_HDF5_file.png)<br>
+
+
+
+# Summary
+
+The analaysis and neural network modeling done by Beks and her team of data scientists for Alphabet Soup Organization will enable the organziation to predict which applicants will be successful
+if funded by Alphabet Soup. The team is using deep learning neural network model to create a binary classifier to predict which applicant will be successful and should be funded.
+
+The end result will enable the decision making of Alphabet Soup Organization to either fund or not to fund certain applicants. The current models accuracy is 0.7016 or 70 percent. 
+After the model optimization. I have not seen any improvement in accuracy score. In fact, I saw a diminished return of 0.5622. I have used multiple optionization techniques including the following.
+1.	Dropped additional features such as AFFILIATION, ORGANIZATION, USE_CASE
+2.	Replaced the number of count types that were less than 10000
+3.	Added third addition hidden layers
+4.	Changed activation function for the hidden layer from relu to tanh
