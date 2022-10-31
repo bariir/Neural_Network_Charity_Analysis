@@ -2,8 +2,8 @@
 
 ## Purpose
 
-The goal of this project is to analyze and help the foundation predict where to make investment. The team led by Beks will create a binary classifier that is capable of predicting if an applicant will be
-successful if funded by the Alphabet Soup organization. The lead data scientist will be gathering datasets, preprocessing, fitting the neural network models to create a binary classifier systems.
+The goal of this project is to analyze and help the Alphabet Soup foundation predict where to make investment. The team led by Beks will create a binary classifier that is capable of predicting if an applicant will be
+successful if funded by the Alphabet Soup organization. The team of data scientist will be gathering datasets, preprocessing the data, fitting the neural network models to create a binary classifier systems.
 
 
 
